@@ -8,7 +8,7 @@ This repository contains the implementation of our research on early brain tumor
 - **Feature Alignment Module (FAM)**: Aligns features from tumor and normal brain images to improve segmentation precision.
 - **Global Correlation Block (GCB)**: Captures global correlations across multimodal data for effective feature fusion.
 - **Normal Brain Reference**: Incorporates monomodal normal brain images to enhance tumor detection, inspired by radiological practices.
-- **Comprehensive Evaluation**: Validated on public (BraTS2022)
+- **Comprehensive Evaluation**: Validated on BraTS2022 dataset.
 
 ## Architecture Overview
 
